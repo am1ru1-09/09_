@@ -1,1 +1,2 @@
-# 09_
+banana = 1 
+print(banana)
